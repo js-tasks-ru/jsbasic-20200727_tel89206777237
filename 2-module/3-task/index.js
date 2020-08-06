@@ -6,7 +6,7 @@ let calculator = {
   sum(){
      return this.a + this.b
   },
-  mull(){
+  mul(){
     return this.a * this.b
   }
 };
